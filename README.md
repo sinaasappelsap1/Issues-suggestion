@@ -2,7 +2,7 @@
 
 **The AI achieved a success ratio of 22%. It is relatively low, but it does not quite come as a surprise. Why?**
 
-This project uses a general-purpose language model (gpt-3.5-turbo) in a zero-shot setting, meaning that the model hasn’t been fine-tuned or pre-trained specifically for the YouTrack issues classification task, just plain chatgpt. Zero-shot models don’t always get through the structured classification tasks with the precision needed for accurate labeling. Adjusting prompts leads to not very significant suggestion rate improvement, which is expected, as it doesn’t offer the efficiency of a trained classification model. Fine-tuning with a dataset including numerous labeled examples for each subsystem type would improve "guess" accuracy by teaching the model the distinctions between categories.
+This project uses a general-purpose language model (gpt-3.5-turbo) in a zero-shot setting, meaning that the model hasn’t been fine-tuned or pre-trained specifically for the YouTrack issues classification task, just plain chatgpt. Zero-shot models don’t always get through the classification tasks with the precision needed for accurate labeling. **Adjusting prompts leads to not very significant suggestion rate improvement**, which is expected, as it doesn’t offer the efficiency of a trained classification model. Fine-tuning with a dataset including numerous labeled examples for each subsystem type would improve "guess" accuracy by teaching the model the distinctions between categories.
 
 # How It Works
 
@@ -19,7 +19,7 @@ The program reads both files, then attempts to classify the issues in `issues_nu
 
 # How to Run
 
-- **Node.js** installed.
+Node.js installed
 
   ```bash
   npm install dotenv axios

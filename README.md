@@ -26,4 +26,6 @@ The program reads both files, then attempts to classify the issues in `issues_nu
 
 You have an .env file in the root directory with OpenRouter API key
 
-Run with node index.js
+Run the command
+  ```bash
+    node index.js

@@ -20,12 +20,10 @@ The program reads both files, then attempts to classify the issues in `issues_nu
 # How to Run
 
 Node.js installed
+You have an .env file in the root directory with OpenRouter API key
 
   ```bash
   npm install dotenv axios
 
-You have an .env file in the root directory with OpenRouter API key
-
-Run the command
   ```bash
     node index.js

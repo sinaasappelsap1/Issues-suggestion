@@ -24,6 +24,10 @@ You have an .env file in the root directory with OpenRouter API key
 
   ```bash
   npm install dotenv axios
+  ```
+
+To run the program:
 
   ```bash
-    node index.js
+  node index.js
+  ```

@@ -1,0 +1,3591 @@
+[
+    {
+      "summary": "Add the create linked issue dropdown to the header on the Issue list on Lite UI",
+      "idReadable": "JT-85546",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Maksim Erekhinskii"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Issue list"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Swimlane cannot be closed after setting the visibility to me",
+      "idReadable": "JT-81812",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Wait for reply"
+        },
+        {
+          "name": "Assignee",
+          "value": "Sergey Merzlov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Agile board"
+        },
+        {
+          "name": "Type",
+          "value": "Support request"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.1.29548",
+              "id": "129-52384",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "Knowledge base is not accessible to reporters ",
+      "idReadable": "JT-84463",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Wait for reply"
+        },
+        {
+          "name": "Assignee",
+          "value": "Anna Zhdan"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Knowledge base"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.2.42544",
+              "id": "129-57406",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "GitLab integration with mutual TLS sporadically stops working",
+      "idReadable": "JT-84365",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Wait for reply"
+        },
+        {
+          "name": "Assignee",
+          "value": "Sergey Merzlov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "VCS or CI integration"
+        },
+        {
+          "name": "Affected integrations",
+          "value": [
+            {
+              "name": "GitLab",
+              "id": "127-4542",
+              "$type": "OwnedBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.2.41254",
+              "id": "129-56960",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "Ticket Status not showing as resolved on occasion",
+      "idReadable": "JT-85728",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Anna Zhdan"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Custom fields"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Inline LaTeX support",
+      "idReadable": "JT-70231",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Markdown"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Latex: support expressions outside code blocks ",
+      "idReadable": "JT-79021",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Markdown"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Allow reporter filtering their tickets by state",
+      "idReadable": "JT-77335",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Helpdesk"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Can no longer create agile boards for project templates. Existing template boards are gone",
+      "idReadable": "JT-85021",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Duplicate"
+        },
+        {
+          "name": "Assignee",
+          "value": "Max Maximov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Projects"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.3.44799",
+              "id": "129-63237",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.3.46677",
+              "id": "129-63779",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "Project overview page: agile boards section missing",
+      "idReadable": "JT-84920",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Max Maximov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Projects"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.3.44799",
+              "id": "129-63237",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Dashboard Widgets show error on slow internet/computers",
+      "idReadable": "JT-85558",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Apps"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "KB Article Autolinks Fail to Format in Long Documents",
+      "idReadable": "JT-85724",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Knowledge base"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.2.35661",
+              "id": "129-55277",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.3.48383",
+              "id": "129-64255",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "Dashboards: bring the search bar back",
+      "idReadable": "JT-84918",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Sergey Merzlov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Dashboard"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Dashboards: bring the New issue button back",
+      "idReadable": "JT-84919",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Sergey Merzlov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Dashboard"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "To reduce confusion, we moved \"sorted by\" to the right. And added the text \"Select all\" next to the corresponding checkbox in the header.",
+      "idReadable": "JT-84790",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "In progress"
+        },
+        {
+          "name": "Assignee",
+          "value": "Pavel Reutov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Issue list"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Pressing Enter in comment input field opens SIV instead of adding line break",
+      "idReadable": "JT-84732",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Sergey Kochetkov"
+        },
+        {
+          "name": "Priority",
+          "value": "Major"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Helpdesk"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.3.44799",
+              "id": "129-63237",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "WF Constructor: visibility for added comments",
+      "idReadable": "JT-75163",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Workflow"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Headlines for comment templates",
+      "idReadable": "JT-75500",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Helpdesk"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Broken navigation after full screen draft deletion",
+      "idReadable": "JT-85616",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Maksim Erekhinskii"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Global navigation"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Some E-mail notifications are not threaded",
+      "idReadable": "JT-79073",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "2023.3.24329",
+              "id": "129-50043",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Pavel Nikolaev"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Notifications"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Make action in Slack to open converted thread as issue draft",
+      "idReadable": "JT-85641",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Timofei Korolev"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "AI assistant"
+        },
+        {
+          "name": "Type",
+          "value": "Task"
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Automatically detect Rust in code snippets",
+      "idReadable": "JT-85720",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Markdown"
+        },
+        {
+          "name": "Type",
+          "value": "Usability problem"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Add Last page button on Workflows page",
+      "idReadable": "JT-85726",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Minor"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Apps"
+        },
+        {
+          "name": "Type",
+          "value": "Usability problem"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.3.47197",
+              "id": "129-64059",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "Allow to limit articles browsing to a single (current) project",
+      "idReadable": "JT-73215",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Knowledge base"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Ctrl+left or right arrow incorrectly treated in text input as shortcut to show previous or next issue",
+      "idReadable": "JT-85352",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Verified"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "2024.3.48978",
+              "id": "129-64337",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Issue list"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Issue List Markdown widget. Query, context and refresh interval aren't saved",
+      "idReadable": "JT-85407",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Verified"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "2024.3.48383",
+              "id": "129-64255",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Major"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Apps"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Issue List Markdown widget. Widget doesn't work in KB",
+      "idReadable": "JT-85408",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Verified"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "2024.3.48383",
+              "id": "129-64255",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Major"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Apps"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Changes made on editing the widget embedded in the article content are not saved",
+      "idReadable": "JT-84739",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Verified"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "2024.3.48383",
+              "id": "129-64255",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Major"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Apps"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Timesheets is sometimes is empty",
+      "idReadable": "JT-84910",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Mikhail Cherviakov"
+        },
+        {
+          "name": "Priority",
+          "value": "Major"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Time tracking"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.3.44799",
+              "id": "129-63237",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "Angular issue modal view is shown when press 'New Issue' on Agile Board footer ",
+      "idReadable": "JT-85592",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Verified"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "2024.3.48978",
+              "id": "129-64337",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Agile board"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Update the width of the toolbar. We want to make it smaller to attract less attention but still be noticeable. Note that there is an extra divider between the delete and close icons.",
+      "idReadable": "JT-84792",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Issue list"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Add colors for cards background in Agile boards ",
+      "idReadable": "JT-85723",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Submitted"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Agile board"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Add tickets to \"Star automatically when\" options",
+      "idReadable": "JT-81762",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Notifications"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Helpdesk: tickets UI for standard users and other improvements",
+      "idReadable": "JT-77952",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Helpdesk"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Apps scaffolder - The \"widget add\" command does not add a comma",
+      "idReadable": "JT-85703",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Apps"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Text selection in table cells is broken ",
+      "idReadable": "JT-85468",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Verified"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "2024.3.48978",
+              "id": "129-64337",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Markdown"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.3.47197",
+              "id": "129-64059",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "ISO 8601 date format offset display in date formatting",
+      "idReadable": "JT-85709",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Single issue view"
+        },
+        {
+          "name": "Type",
+          "value": "Usability problem"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.3.48383",
+              "id": "129-64255",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "State Machine per Issue type workflow forces lowercase",
+      "idReadable": "JT-56049",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Maksim Zheltoukhov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Workflow"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2019.2",
+              "id": "129-7792",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Pasted text color format is lost in Visual Mode",
+      "idReadable": "JT-85718",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Markdown"
+        },
+        {
+          "name": "Type",
+          "value": "Usability problem"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Export Gantt Diagram",
+      "idReadable": "JT-39158",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Pavel Reutov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Gantt chart"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "An option to manage top menu items' visibility",
+      "idReadable": "JT-47479",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Permissions"
+        },
+        {
+          "name": "Type",
+          "value": "Usability problem"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Simultaneous edition of a text field by two users",
+      "idReadable": "JT-72677",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Single issue view"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Drag & drop multiple items (stories)",
+      "idReadable": "JT-27468",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Agile board"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Support integration with Google Chat",
+      "idReadable": "JT-62557",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Integrations"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Search results not returning correct amount of search related results",
+      "idReadable": "JT-79264",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Obsolete"
+        },
+        {
+          "name": "Assignee",
+          "value": "Lena Vostrikova"
+        },
+        {
+          "name": "Priority",
+          "value": "Major"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Full text index"
+        },
+        {
+          "name": "Type",
+          "value": "Support request"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2023.3.22912",
+              "id": "129-49323",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "Cannot unstar favourite agile board if a source project is archived",
+      "idReadable": "JT-67134",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "In progress"
+        },
+        {
+          "name": "Assignee",
+          "value": "Pavel Nikolaev"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Agile board"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Request should immediately fail with HTTP 400 when passed invalid fields query",
+      "idReadable": "JT-80105",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "In progress"
+        },
+        {
+          "name": "Assignee",
+          "value": "Pavel Nikolaev"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "REST API"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Uncontrolled notifications for any change for KB articles commenters",
+      "idReadable": "JT-85697",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Submitted"
+        },
+        {
+          "name": "Assignee",
+          "value": "Aleksandr Lavrik"
+        },
+        {
+          "name": "Priority",
+          "value": "Major"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Knowledge base"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Issues appears unexpected in Lite UI issue list with saved search",
+      "idReadable": "JT-77389",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Major"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Issue list"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Burndown chart should better reflect changes made during the sprint",
+      "idReadable": "JT-20212",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Reports"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Apps - There is no way to set multivalue field value in the handle backend script",
+      "idReadable": "JT-85700",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Maksim Zheltoukhov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Apps"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Huge empty space below the top panel on user page Groups tab",
+      "idReadable": "JT-85698",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Minor"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Global navigation"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Can't edit a board with more than one archived projects",
+      "idReadable": "JT-36160",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Verified"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "7.0",
+              "id": "129-3046",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexey Volkov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Agile board"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Agile board: Ability to customize backlog items",
+      "idReadable": "JT-67894",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Agile board"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Information-tooltip is not accessible on long values for custom enum fields.",
+      "idReadable": "JT-85570",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Single issue view"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "IDE Plugin: after switching tasks, time is saved locally but not sent to YouTrack before quitting IDE",
+      "idReadable": "JT-77721",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alina Boshchenko"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "IDE plugin"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Do not disable editing field in all projects when Default values are set in one of the projects",
+      "idReadable": "JT-82777",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Pavel Nikolaev"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Custom fields"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Jira Service Management: account types ignored for server, imported users are standard users",
+      "idReadable": "JT-85689",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Import"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Inform users that a summary is required",
+      "idReadable": "JT-69040",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Verified"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "2022.3.62571",
+              "id": "129-35368",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Mikhail Cherviakov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Single issue view"
+        },
+        {
+          "name": "Type",
+          "value": "Usability problem"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "\"Reply comment\" for limited visibility comment does not include comment author",
+      "idReadable": "JT-85687",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Single issue view"
+        },
+        {
+          "name": "Type",
+          "value": "Usability problem"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Strange condition is shown in Workflow Constructor",
+      "idReadable": "JT-71748",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Verified"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "2022.3.62571",
+              "id": "129-35368",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Critical"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Workflow"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Expose property User.isSystem to the API",
+      "idReadable": "JT-68835",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "2022.2.51283",
+              "id": "129-33856",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Workflow"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "How to provide Auth-Header in Generic VCS Integration",
+      "idReadable": "JT-85669",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Answered"
+        },
+        {
+          "name": "Assignee",
+          "value": "Stanislav Dubin"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "VCS or CI integration"
+        },
+        {
+          "name": "Affected integrations",
+          "value": null
+        },
+        {
+          "name": "Type",
+          "value": "Support request"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Cannot parse email address",
+      "idReadable": "JT-85543",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Answered"
+        },
+        {
+          "name": "Assignee",
+          "value": "Stanislav Dubin"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Helpdesk"
+        },
+        {
+          "name": "Type",
+          "value": "Support request"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Agile board, Dashboards, Gantt, Reports items should be Link type to enable  \"open in new tab\", \"copy URL\" and other actions",
+      "idReadable": "JT-85369",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Verified"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Max Maximov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Global navigation"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Hide mentioned issues when they are linked",
+      "idReadable": "JT-84925",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Max Maximov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Issue links"
+        },
+        {
+          "name": "Type",
+          "value": "Task"
+        }
+      ]
+    },
+    {
+      "summary": "Support widgets in articles",
+      "idReadable": "JT-68304",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Released"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "2024.3.44799",
+              "id": "129-63237",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Knowledge base"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Support embedding plugins in Markdown",
+      "idReadable": "JT-62589",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Released"
+        },
+        {
+          "name": "Released in build",
+          "value": [
+            {
+              "name": "2024.3.44799",
+              "id": "129-63237",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Markdown"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Fix flaky GenericVcsChangesProcessorTest OOM errors",
+      "idReadable": "JT-84485",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Leonid Stryuk"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "VCS or CI integration"
+        },
+        {
+          "name": "Affected integrations",
+          "value": null
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Manually attached commit couldn't be fully detached from the issue",
+      "idReadable": "JT-84021",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Dmitrii Stepul"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "VCS or CI integration"
+        },
+        {
+          "name": "Affected integrations",
+          "value": null
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "\"Check branch names for issues references\" hidden even when enabled",
+      "idReadable": "JT-85640",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Dmitrii Stepul"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "VCS or CI integration"
+        },
+        {
+          "name": "Affected integrations",
+          "value": null
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Backend doesn't check update not own comment permission when pin/unpin article comments",
+      "idReadable": "JT-78823",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Invalid"
+        },
+        {
+          "name": "Assignee",
+          "value": "Pavel Nikolaev"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Knowledge base"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "404 on opening link with /youtrack in base URL",
+      "idReadable": "JT-85541",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Minor"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Core"
+        },
+        {
+          "name": "Type",
+          "value": "Usability problem"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Deleting all attachments should not be possible in helpdesk tickets",
+      "idReadable": "JT-85662",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Helpdesk"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Can't delete a file attached to a helpdesk ticket",
+      "idReadable": "JT-84573",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Maksim Erekhinskii"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Helpdesk"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.2.42544",
+              "id": "129-57406",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Burndown chart: line to track current total estimation",
+      "idReadable": "JT-85657",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Submitted"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Agile board"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Field required setting and flow action break UI",
+      "idReadable": "JT-84704",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Obsolete"
+        },
+        {
+          "name": "Assignee",
+          "value": "Lena Vostrikova"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Custom fields"
+        },
+        {
+          "name": "Type",
+          "value": "Support request"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.1.29548",
+              "id": "129-52384",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "Stuck on project creation screen due to missing \"Read Organization\" permission",
+      "idReadable": "JT-85645",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Max Maximov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Projects"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Roles granted in Access page do not work",
+      "idReadable": "JT-85048",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Helpdesk"
+        },
+        {
+          "name": "Type",
+          "value": "Usability problem"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Helpdesk: an option to control notifications a reporter receives",
+      "idReadable": "JT-75212",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Helpdesk"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Hybrid UI sends issue description and summary when I update issue's fields",
+      "idReadable": "JT-85505",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Single issue view"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "GitLab import fails with \"Failed to load data from /users/null, response code 404\"",
+      "idReadable": "JT-81627",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexey Khludov"
+        },
+        {
+          "name": "Priority",
+          "value": "Major"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Import"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.1.28928",
+              "id": "129-52097",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.1.29548",
+              "id": "129-52384",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.1.32323",
+              "id": "129-54796",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.1.34109",
+              "id": "129-55047",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.2.34646",
+              "id": "129-55104",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.2.35237",
+              "id": "129-55242",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.2.35661",
+              "id": "129-55277",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.2.35942",
+              "id": "129-55312",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.2.37269",
+              "id": "129-55469",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.2.38971",
+              "id": "129-55688",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.2.40106",
+              "id": "129-56819",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.2.41254",
+              "id": "129-56960",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.2.42544",
+              "id": "129-57406",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.3.44799",
+              "id": "129-63237",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.3.46677",
+              "id": "129-63779",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.3.47197",
+              "id": "129-64059",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.3.47707",
+              "id": "129-64166",
+              "$type": "VersionBundleElement"
+            },
+            {
+              "name": "2024.3.48383",
+              "id": "129-64255",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "Search for range of version",
+      "idReadable": "JT-75701",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Pavel Nikolaev"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Search"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2023.1.10518",
+              "id": "129-41009",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Can't type a space character into the comment field when \"Add link\" section is open",
+      "idReadable": "JT-85577",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Comments"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Drop links to hub project overview page",
+      "idReadable": "JT-85632",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Global navigation"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Enable PWA for YouTrack cloud",
+      "idReadable": "JT-75292",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Global navigation"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "The workflow shows incorrect information for multi-field value added in the current transaction",
+      "idReadable": "JT-78271",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Maksim Zheltoukhov"
+        },
+        {
+          "name": "Priority",
+          "value": "Major"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Workflow"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2023.2.20316",
+              "id": "129-45399",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "Problem with project filter in Issue Distribution Report widget",
+      "idReadable": "JT-85621",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Widgets"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Affected widgets",
+          "value": null
+        },
+        {
+          "name": "Affected widget\u2019s version",
+          "value": null
+        },
+        {
+          "name": "Fixed widget\u2019s version",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Workflow - There is no way to specify the parent parameter when a new article is created",
+      "idReadable": "JT-85579",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Maksim Zheltoukhov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Workflow"
+        },
+        {
+          "name": "Type",
+          "value": "Task"
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": " Lack of Visual Distinction for Public Comments",
+      "idReadable": "JT-83965",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": null
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Helpdesk"
+        },
+        {
+          "name": "Type",
+          "value": "Usability problem"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Search takes a long time on prod",
+      "idReadable": "JT-85606",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Anna Zhdan"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Search"
+        },
+        {
+          "name": "Type",
+          "value": "Performance problem"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Provide information about default visibility of a project and support ticket system.",
+      "idReadable": "JT-32441",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Issue creation"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Make settings available without context",
+      "idReadable": "JT-84720",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Apps"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "No search panel for Articles page on the old header",
+      "idReadable": "JT-85356",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Maksim Erekhinskii"
+        },
+        {
+          "name": "Priority",
+          "value": "Major"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Global navigation"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Microsoft Teams integration",
+      "idReadable": "JT-46824",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Integrations"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Release management feature",
+      "idReadable": "JT-52473",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Collecting feedback"
+        },
+        {
+          "name": "Assignee",
+          "value": "Alexander Volfman"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Projects"
+        },
+        {
+          "name": "Type",
+          "value": "Feature"
+        },
+        {
+          "name": "Issue Handling Process",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Unable to remove user from group",
+      "idReadable": "JT-85355",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Answered"
+        },
+        {
+          "name": "Assignee",
+          "value": "Stanislav Dubin"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "User management"
+        },
+        {
+          "name": "Type",
+          "value": "Support request"
+        },
+        {
+          "name": "Affected versions",
+          "value": [
+            {
+              "name": "2024.2.41254",
+              "id": "129-56960",
+              "$type": "VersionBundleElement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "summary": "Font color for copyright doesn't change during theme change",
+      "idReadable": "JT-85574",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Fixed"
+        },
+        {
+          "name": "Released in build",
+          "value": null
+        },
+        {
+          "name": "Assignee",
+          "value": "Veniamin Krol"
+        },
+        {
+          "name": "Priority",
+          "value": "Major"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Core"
+        },
+        {
+          "name": "Type",
+          "value": "Cosmetics"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        },
+        {
+          "name": "Release Status",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Extra scrollbar in a tooltip of a widget's title ",
+      "idReadable": "JT-85591",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Andrey Skladchikov"
+        },
+        {
+          "name": "Priority",
+          "value": "Minor"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Apps"
+        },
+        {
+          "name": "Type",
+          "value": "Bug"
+        },
+        {
+          "name": "Affected versions",
+          "value": null
+        }
+      ]
+    },
+    {
+      "summary": "Workflow - Add the copy function to entities.Article",
+      "idReadable": "JT-85581",
+      "customFields": [
+        {
+          "name": "State",
+          "value": "Open"
+        },
+        {
+          "name": "Assignee",
+          "value": "Maksim Zheltoukhov"
+        },
+        {
+          "name": "Priority",
+          "value": "Normal"
+        },
+        {
+          "name": "Subsystem",
+          "value": "Workflow"
+        },
+        {
+          "name": "Type",
+          "value": "Task"
+        }
+      ]
+    }
+  ]

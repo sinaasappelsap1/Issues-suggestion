@@ -20,5 +20,5 @@ The success rate varies by target field, for example `Type` has a higher success
 # Run
 
 ```bash
-ts-node yourfile.ts Subsystem (or anything else)
+ts-node index.ts Subsystem (or anything else)
 ```
